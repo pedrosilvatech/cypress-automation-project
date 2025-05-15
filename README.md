@@ -1,6 +1,6 @@
 # Cypress Automation Project
 
-Este repositório contém um conjunto de testes automatizados utilizando o [Cypress](https://www.cypress.io/), com foco em simular a funcionalidade de login e cadastro em um sistema de exemplo. O projeto inclui testes de upload de arquivos e validações de interação do usuário.
+Este repositório contém um conjunto de testes automatizados utilizando o Cypress, com foco em simular a funcionalidade de login e cadastro em um sistema de exemplo. O projeto inclui testes de upload de arquivos e validações de interação do usuário.
 
 ## 🚀 Funcionalidades
 
