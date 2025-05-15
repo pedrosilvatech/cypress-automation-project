@@ -22,7 +22,7 @@ describe('Funcionalidade: Login', () => {
       cy.get('#username').type('tomsmith');
       cy.get('#password').type('senhaErrada');
       cy.get('button[type="submit"]').click();
-      cy.contains('Your username is invalid!').should('be.visible');
+      cy.contains('Your password is invalid!').should('be.visible');
     });
   
     it('Login com campos em branco', () => {
